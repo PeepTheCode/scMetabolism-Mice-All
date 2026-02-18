@@ -1,4 +1,9 @@
 # scMetabolism
+🤖 We're still cooking — Stay tuned! 🤖
+
+⭐ Give us a star if you like it! ⭐
+
+
 `scMetabolism` is a R package for quantifying metabolism activity at the single-cell resolution
 ![Screenshot](https://github.com/wu-yc/scMetabolism/raw/main/logo.jpg)
 
@@ -139,5 +144,8 @@ Any technical question please contact Yingcheng Wu (yingchengwu21@m.fudan.edu.cn
 
 Copyright (C) 2020-2023 Gao Lab @ Fudan University.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wu-yc/scMetabolism&type=date&legend=top-left)](https://www.star-history.com/#wu-yc/scMetabolism&type=date&legend=top-left)
 
 
